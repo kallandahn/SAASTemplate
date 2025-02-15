@@ -1,0 +1,64 @@
+{
+    "default": {
+        "sections": [
+            {
+                "title": "User Menu",
+                "permissions": [
+                    "user",
+                    "paid",
+                    "lifetime",
+                    "admin"
+                ],
+                "items": [
+                    {
+                        "id": "placeholder",
+                        "title": "Placeholder",
+                        "url": "replaceme.php",
+                        "icon": "far fa-calendar-alt"
+                    }
+                ]
+            },
+            {
+                "title": "Admin Menu",
+                "permissions": [
+                    "admin"
+                ],
+                "items": [
+                    {
+                        "id": "webhook-manager",
+                        "title": "Webhook Manager",
+                        "url": "webhook.php",
+                        "icon": "exchange-alt"
+                    },
+                    {
+                        "id": "data-manager",
+                        "title": "Data Manager",
+                        "url": "datamanager.php",
+                        "icon": "database"
+                    },
+                    {
+                        "id": "branding-manager",
+                        "title": "Branding Manager",
+                        "url": "branding.php",
+                        "icon": "palette"
+                    },
+                    {
+                        "id": "tab-manager",
+                        "title": "Tab Manager",
+                        "url": "TabManagement.php",
+                        "icon": "sitemap"
+                    },
+                    {
+                        "id": "file-upload",
+                        "title": "File Upload",
+                        "url": "fileUpload.php",
+                        "icon": "far fa-file-code"
+                    }
+                ]
+            }
+        ]
+    },
+    "admin": {
+        "sections": []
+    }
+}

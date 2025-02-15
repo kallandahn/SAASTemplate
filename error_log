@@ -1,0 +1,210 @@
+[07-Feb-2025 18:14:04 UTC] Error fetching branding data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'attoetbk_attorney_db.branding' doesn't exist
+[07-Feb-2025 18:15:19 UTC] Error fetching branding data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'attoetbk_attorney_db.branding' doesn't exist
+[07-Feb-2025 18:16:27 UTC] Error fetching branding data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'attoetbk_attorney_db.branding' doesn't exist
+[07-Feb-2025 18:16:35 UTC] PHP Warning:  Undefined array key "name" in /home/attoetbk/eventcalendarbuilder.com/process_signup.php on line 22
+[07-Feb-2025 18:17:25 UTC] Error fetching branding data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'attoetbk_attorney_db.branding' doesn't exist
+[07-Feb-2025 18:17:38 UTC] Error fetching branding data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'attoetbk_attorney_db.branding' doesn't exist
+[07-Feb-2025 18:17:40 UTC] Error fetching branding data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'attoetbk_attorney_db.branding' doesn't exist
+[07-Feb-2025 18:20:06 UTC] Attempting to connect to database: host=localhost, dbname=attoetbk_attorney_db
+[07-Feb-2025 18:20:06 UTC] Database connection successful
+[07-Feb-2025 18:20:06 UTC] Attempting to create users table
+[07-Feb-2025 18:20:06 UTC] Users table created/verified successfully
+[07-Feb-2025 18:20:06 UTC] Error fetching branding data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'attoetbk_attorney_db.branding' doesn't exist
+[07-Feb-2025 18:23:02 UTC] Attempting to connect to database: host=localhost, dbname=attoetbk_attorney_db
+[07-Feb-2025 18:23:02 UTC] Database connection successful
+[07-Feb-2025 18:23:02 UTC] Attempting to create users table
+[07-Feb-2025 18:23:02 UTC] Users table created/verified successfully
+[07-Feb-2025 18:23:02 UTC] Attempting to create branding table
+[07-Feb-2025 18:23:02 UTC] Branding table created/verified successfully
+[07-Feb-2025 18:23:02 UTC] Default branding data inserted
+[07-Feb-2025 18:23:13 UTC] PHP Warning:  Undefined array key "name" in /home/attoetbk/eventcalendarbuilder.com/process_signup.php on line 22
+[07-Feb-2025 18:28:07 UTC] Attempting to connect to database: host=localhost, dbname=attoetbk_attorney_db
+[07-Feb-2025 18:28:07 UTC] Database connection successful
+[07-Feb-2025 18:28:07 UTC] Attempting to create users table
+[07-Feb-2025 18:28:07 UTC] Users table created/verified successfully
+[07-Feb-2025 18:28:07 UTC] Attempting to create branding table
+[07-Feb-2025 18:28:07 UTC] Branding table created/verified successfully
+[07-Feb-2025 18:28:15 UTC] Raw POST data: full_name=Jeffery+Caldwell&email=Caldwell.jeffery90%40gmail.com&phone=7024799949&user_type=user&password=mike12&confirm_password=mike12
+[07-Feb-2025 18:28:15 UTC] POST array contents: Array
+(
+    [full_name] => Jeffery Caldwell
+    [email] => Caldwell.jeffery90@gmail.com
+    [phone] => 7024799949
+    [user_type] => user
+    [password] => mike12
+    [confirm_password] => mike12
+)
+
+[07-Feb-2025 18:28:15 UTC] POST data received: Array
+(
+    [full_name] => Jeffery Caldwell
+    [email] => Caldwell.jeffery90@gmail.com
+    [phone] => 7024799949
+    [user_type] => user
+    [password] => mike12
+    [confirm_password] => mike12
+)
+
+[07-Feb-2025 18:28:20 UTC] Attempting to connect to database: host=localhost, dbname=attoetbk_attorney_db
+[07-Feb-2025 18:28:20 UTC] Database connection successful
+[07-Feb-2025 18:28:20 UTC] Attempting to create users table
+[07-Feb-2025 18:28:20 UTC] Users table created/verified successfully
+[07-Feb-2025 18:28:20 UTC] Attempting to create branding table
+[07-Feb-2025 18:28:20 UTC] Branding table created/verified successfully
+[07-Feb-2025 18:43:56 UTC] Attempting to connect to database: host=localhost, dbname=attoetbk_calendar
+[07-Feb-2025 18:43:56 UTC] Database connection successful
+[07-Feb-2025 18:43:56 UTC] Attempting to create users table
+[07-Feb-2025 18:43:56 UTC] Users table created/verified successfully
+[07-Feb-2025 18:43:56 UTC] Attempting to create branding table
+[07-Feb-2025 18:43:56 UTC] Branding table created/verified successfully
+[07-Feb-2025 18:43:56 UTC] Default branding data inserted
+[07-Feb-2025 18:44:15 UTC] Raw POST data: full_name=Jeffery+Caldwell&email=Caldwell.jeffery90%40gmail.com&phone=7024799949&user_type=user&password=mike12&confirm_password=mike12
+[07-Feb-2025 18:44:15 UTC] POST array contents: Array
+(
+    [full_name] => Jeffery Caldwell
+    [email] => Caldwell.jeffery90@gmail.com
+    [phone] => 7024799949
+    [user_type] => user
+    [password] => mike12
+    [confirm_password] => mike12
+)
+
+[07-Feb-2025 18:44:15 UTC] POST data received: Array
+(
+    [full_name] => Jeffery Caldwell
+    [email] => Caldwell.jeffery90@gmail.com
+    [phone] => 7024799949
+    [user_type] => user
+    [password] => mike12
+    [confirm_password] => mike12
+)
+
+[07-Feb-2025 18:56:06 UTC] Attempting to connect to database: host=localhost, dbname=attoetbk_calendar
+[07-Feb-2025 18:56:06 UTC] Database connection successful
+[07-Feb-2025 18:56:06 UTC] Attempting to create users table
+[07-Feb-2025 18:56:06 UTC] Users table created/verified successfully
+[07-Feb-2025 18:56:06 UTC] Attempting to create branding table
+[07-Feb-2025 18:56:06 UTC] Branding table created/verified successfully
+[07-Feb-2025 20:03:21 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/attoetbk/eventcalendarbuilder.com/dashboard.php on line 28
+[07-Feb-2025 20:04:17 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/attoetbk/eventcalendarbuilder.com/dashboard.php on line 28
+[07-Feb-2025 20:04:19 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/attoetbk/eventcalendarbuilder.com/dashboard.php on line 28
+[07-Feb-2025 20:05:57 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/attoetbk/eventcalendarbuilder.com/dashboard.php on line 28
+[07-Feb-2025 20:06:01 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/attoetbk/eventcalendarbuilder.com/dashboard.php on line 28
+[07-Feb-2025 20:06:01 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/attoetbk/eventcalendarbuilder.com/dashboard.php on line 28
+[07-Feb-2025 20:06:01 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/attoetbk/eventcalendarbuilder.com/dashboard.php on line 28
+[07-Feb-2025 20:06:01 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/attoetbk/eventcalendarbuilder.com/dashboard.php on line 28
+[07-Feb-2025 20:20:17 UTC] PHP Warning:  Undefined array key "title" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 55
+[07-Feb-2025 20:20:17 UTC] PHP Warning:  Undefined array key "url" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 58
+[07-Feb-2025 20:20:17 UTC] PHP Warning:  Undefined array key "icon" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 61
+[07-Feb-2025 20:20:17 UTC] PHP Warning:  Undefined array key "title" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 55
+[07-Feb-2025 20:20:17 UTC] PHP Warning:  Undefined array key "url" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 58
+[07-Feb-2025 20:20:17 UTC] PHP Warning:  Undefined array key "icon" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 61
+[07-Feb-2025 20:20:24 UTC] PHP Warning:  Undefined array key "title" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 55
+[07-Feb-2025 20:20:24 UTC] PHP Warning:  Undefined array key "url" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 58
+[07-Feb-2025 20:20:24 UTC] PHP Warning:  Undefined array key "icon" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 61
+[07-Feb-2025 20:20:24 UTC] PHP Warning:  Undefined array key "title" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 55
+[07-Feb-2025 20:20:24 UTC] PHP Warning:  Undefined array key "url" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 58
+[07-Feb-2025 20:20:24 UTC] PHP Warning:  Undefined array key "icon" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 61
+[07-Feb-2025 20:20:57 UTC] PHP Warning:  Undefined array key "title" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 55
+[07-Feb-2025 20:20:57 UTC] PHP Warning:  Undefined array key "url" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 58
+[07-Feb-2025 20:20:57 UTC] PHP Warning:  Undefined array key "icon" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 61
+[07-Feb-2025 20:20:57 UTC] PHP Warning:  Undefined array key "title" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 55
+[07-Feb-2025 20:20:57 UTC] PHP Warning:  Undefined array key "url" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 58
+[07-Feb-2025 20:20:57 UTC] PHP Warning:  Undefined array key "icon" in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 61
+[07-Feb-2025 21:37:28 UTC] PHP Warning:  Undefined variable $conn in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:30 UTC] PHP Warning:  Undefined variable $conn in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:36 UTC] PHP Warning:  Undefined variable $conn in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:47 UTC] PHP Warning:  Undefined variable $conn in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:57 UTC] PHP Warning:  Undefined variable $conn in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:58 UTC] PHP Warning:  Undefined variable $conn in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:59 UTC] PHP Warning:  Undefined variable $conn in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:59 UTC] PHP Warning:  Undefined variable $conn in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:37:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 57
+[07-Feb-2025 21:48:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_contents() in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 54
+[07-Feb-2025 21:48:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_contents() in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 54
+[07-Feb-2025 21:49:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_contents() in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 54
+[07-Feb-2025 21:49:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_contents() in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 54
+[07-Feb-2025 21:49:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_contents() in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 54
+[07-Feb-2025 21:49:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_contents() in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 54
+[07-Feb-2025 21:49:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_contents() in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 54
+[07-Feb-2025 21:49:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_contents() in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 54
+[07-Feb-2025 21:49:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_contents() in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/attoetbk/eventcalendarbuilder.com/TabManagement.php on line 54
+[07-Feb-2025 21:52:42 UTC] Raw POST data: full_name=Jeffery+Caldwell&email=Caldwell.jeffery910%40gmail.com&phone=7024799949&user_type=user&password=mike12&confirm_password=mike12
+[07-Feb-2025 21:52:42 UTC] POST array contents: Array
+(
+    [full_name] => Jeffery Caldwell
+    [email] => Caldwell.jeffery910@gmail.com
+    [phone] => 7024799949
+    [user_type] => user
+    [password] => mike12
+    [confirm_password] => mike12
+)
+
+[07-Feb-2025 21:52:42 UTC] POST data received: Array
+(
+    [full_name] => Jeffery Caldwell
+    [email] => Caldwell.jeffery910@gmail.com
+    [phone] => 7024799949
+    [user_type] => user
+    [password] => mike12
+    [confirm_password] => mike12
+)
+

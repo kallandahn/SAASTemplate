@@ -1,0 +1,35 @@
+{
+    "companyInfo": {
+        "name": "Your SAAS Template",
+        "tagline": "Making SAAS Easy with AI",
+        "foundedYear": "2025",
+        "headquartersLocation": "Somewhereville, State",
+        "websiteUrl": "https:\/\/yourwebsite.com"
+    },
+    "visualIdentity": {
+        "logoUrl": {
+            "primary": "placeholder_logo.png",
+            "favicon": "placeholder_logo.png",
+            "socialShare": "placeholder_logo.png"
+        },
+        "colors": {
+            "background": "#094971",
+            "primaryText": "#000000",
+            "secondaryText": "#a3dcff",
+            "button": "#8304d7",
+            "buttonText": "#ffffff"
+        }
+    },
+    "socialMedia": {
+        "facebook": "",
+        "twitter": "https:\/\/twitter.com\/yourcompany",
+        "instagram": "https:\/\/instagram.com\/yourcompany",
+        "linkedin": "https:\/\/linkedin.com\/company\/yourcompany",
+        "youtube": "https:\/\/youtube.com\/c\/yourcompany"
+    },
+    "contactInformation": {
+        "email": "support@yoursoftware.com",
+        "phone": "5555555555",
+        "address": "1234 Somewhere ave City, State 12345"
+    }
+}
