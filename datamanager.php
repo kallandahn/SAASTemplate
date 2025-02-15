@@ -65,8 +65,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 if (!in_array($key, ['action', 'table'])) {
                     $columns[] = "`$key`";
                     $placeholders[] = "?";
-                    $values[] = $value;
-                    $types .= 's'; // Assuming string for all fields, adjust if needed
+                    // Hash password if this is the users table and the field is password
+                    if ($table === 'users' && $key === 'password') {
+                        $values[] = password_hash($value, PASSWORD_DEFAULT);
+                    } else {
+                        $values[] = $value;
+                    }
+                    $types .= 's';
                 }
             }
             
